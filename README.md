@@ -33,6 +33,10 @@ yarn dev
 [![Vue][Vue.js]][Vue-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
+## Broswer Support
+
+https://caniuse.com/mdn-css_at-rules_font-face_size-adjust
+
 <!-- CONTRIBUTING -->
 
 ## Contributing
@@ -58,9 +62,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Simone Baldini - [@simone-baldini](https://www.linkedin.com/in/simone-baldini-60030611b/) - info@simonebaldini.dev
-
-Project Link: [https://github.com/simone-baldini/fallback-font-adjust.git](https://github.com/simone-baldini/fallback-font-adjust.git)
+[Simone Baldini](https://www.linkedin.com/in/simone-baldini-60030611b/) - info@simonebaldini.dev
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/simone-baldini-60030611b/
