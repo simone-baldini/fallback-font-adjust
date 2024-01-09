@@ -11,6 +11,10 @@ Improved font fallbacks
 
 <!-- GETTING STARTED -->
 
+## Live demo
+
+[https://code.simonebaldini.dev/fallback-font-adjust/](https://code.simonebaldini.dev/fallback-font-adjust/)
+
 ## Installation
 
 1. Clone the repository
